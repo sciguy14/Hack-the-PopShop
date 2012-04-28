@@ -5,7 +5,7 @@ The PopShop is a co-working space in Ithaca, NY, started by a group of entrepren
 
 Learn more about the PopShop:	http://www.popright.in
 Like the PopShop on Facebook:	http://www.facebook.com/poprightin
-Follow us on Twitter:		http://www.twitter.com/poprightin
+Follow us on Twitter:			http://www.twitter.com/poprightin
 
 Hack-the-PopShop Info
 =====================
@@ -22,5 +22,4 @@ Sam Sinensky:	Network/Math Hacker
 Open Source License
 ===================
 
-These files are distributed under the GNU GPL Open Source License.
-Further information can be found in the LICENSE.md file.
+These files are distributed under the GNU GPL Open Source License. Further information can be found in the LICENSE.md file.
