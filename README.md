@@ -10,7 +10,7 @@ Follow us on Twitter:			http://www.twitter.com/poprightin
 Hack-the-PopShop Info
 =====================
 
-Image Recognition software paired with a lightweight server and some 120VAC Hardware control is used to automate Cornell University's PopShop Co-working Space.  A MATLAB script grabs webcam images off the PopShop's streaming video feed, which captures a table and wall control grid.  The Matlab script uses thresholding to ID when certain features are modified.  For the lights, serial commands are sent to an arduino which controls a 120VAC Relay.  For the music, a lightweight server initializes a connection between the computer running MATLAB, and another computer on the network that control's the PopShop's tunes.
+Image Recognition software paired with a lightweight server and some 120VAC Hardware control is used to automate Cornell University's PopShop Co-working Space.  A MATLAB script grabs webcam images off the PopShop's streaming video feed, which captures a table and wall control grid.  The Matlab script uses thresholding to ID when certain features are modified.  For the lights, serial commands are sent to an arduino which controls a 120VAC Relay.  For the music, a lightweight server initializes a connection between the computer running MATLAB, and another computer on the network that control's the PopShop's tunes. The MATLAB code runs on the computer connected the arduino. The server code is run on a Mac - running >= OSX 10.5 - on the same network as the computer running the MATLAB code.
 
 Contributers
 ============
